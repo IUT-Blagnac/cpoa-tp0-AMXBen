@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.LinkedList;
 
-public class Order {
+public class    Order {
 
     private List<Drink> contents = new LinkedList<>();
 
